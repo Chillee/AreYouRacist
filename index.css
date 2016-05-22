@@ -2,7 +2,7 @@ body {
   background-color:#000000;
   background:url(https://weirdlyhub.com/wp-content/uploads/2015/03/o-DIVERSE-CLASSROOM-facebook.jpg);
   background-size: 100%;
-  overflow:hidden;
+  opacity: 0.8;
 }
 
 div.center{
@@ -12,12 +12,14 @@ div.center{
 #login{
   margin-left:40%;
   margin-right:40%;
-  margin-top:20%;
+  margin-top:1%;
   background-color:#FFFFFF;
+/*opacity: 20%;*/
+
 }
 #result{
-    margin-left:30%;
-  margin-right:30%;
+    margin-left:20%;
+  margin-right:20%;
   margin-top:1%;
   background-color:#FFFFFF;
   text-align:center;
